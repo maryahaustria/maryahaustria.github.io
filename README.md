@@ -6,7 +6,8 @@ Health Science, BS
 
 ### Professional Experience 
 Data Analyst Intern @ Department of State - Morrocco Embassy 
--Impact 1 
+- Impact 1 
 - Impact 2
 
-### Project
+### Project 
+file:///C:/Users/marya/Downloads/Hubbard_Paper_Presentation_Transformers.pdf 
