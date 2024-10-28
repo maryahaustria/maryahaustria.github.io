@@ -10,4 +10,3 @@ Data Analyst Intern @ Department of State - Morrocco Embassy
 - Impact 2
 
 ### Project 
-file:///C:/Users/marya/Downloads/Hubbard_Paper_Presentation_Transformers.pdf 
