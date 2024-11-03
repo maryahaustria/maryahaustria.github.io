@@ -6,25 +6,29 @@
 
 ### Professional Experience
 
-**Data Analyst Intern @ Department of State - Morocco Embassy**  
+**Department of State - Morocco Embassy**  
+**_Data Analyst Intern_** 
 *09/2024 - Present*  
 - Leveraged Power BI to analyze financial datasets and generate detailed, data-driven reports, providing insights for decision-making. Developed interactive dashboards tailored to stakeholder requirements.
 - Conducted exploratory data analysis on large datasets, extracting insights through statistical modeling and machine learning techniques.
 - Partnered with finance teams to ensure the accuracy and timeliness of financial data analysis, aligning with business objectives.
 
-**Medical Assistant @ INOVA Occupational Health**  
+**INOVA Occupational Health**  
+**_Medical Assistant_**
 *09/2021 - Present*  
 - Improved patient care efficiency by 30% through effective management of electronic health records (EHR) and systematic organization of clinical specimens.
 - Leveraged EPIC and EHR (Systoc) systems to ensure accurate access and management of patient records, maintaining strict adherence to HIPAA regulations for data security and confidentiality.
 - Achieved perfect accuracy in DOT drug and alcohol screenings, reinforcing the reliability of patient care and enhancing overall data integrity.
 
-**Research Analyst Intern @ Psychosocial Clinical Care and Research, VCU**  
+**Psychosocial Clinical Care and Research, VCU**  
+**_Research Analyst Intern_**
 *09/2020 - 09/2022*  
 - Processed over 1,000 pediatric oncology records while ensuring patient data protection in compliance with HIPAA and CIPSEA standards.
 - Created data visualizations in Excel and Power BI, improving reporting efficiency by 25% and supporting strategic decision-making.
 - Applied data cleaning, wrangling, and statistical analysis to transform raw health data for evidence-based interventions.
 
-**Intern @ Accountable Community Health, VCU**  
+**Accountable Community Health, VCU**  
+**_Intern_**
 *02/2020 - 05/2020*  
 - Surveyed Medicare and Medicaid patients, gathering data on social determinants of health and assessing their impact on healthcare access and outcomes.
 - Engaged patients with limited willingness to participate, ensuring comprehensive data collection, which was accurately recorded for tracking and resource allocation.
@@ -46,3 +50,8 @@
 
 **Question Answering System**  
 - Built an NLP-based question answering system using Python, retrieving information from Wikipedia and summarizing content efficiently with a 70% text reduction.
+
+**[View Project: Sentiment Classification](file:///path/to/your/sentiment_classification.html)**  
+**[View Project: Sleep Quantity Analysis](file:///path/to/your/sleep_analysis.html)**  
+**[View Project: Credit Card Fraud Detection](file:///path/to/your/fraud_detection.html)**  
+**[View Project: Question Answering System](C:\Users\marya\Desktop\Work Project\Programming Assignment #3 Group project QA System (2).html)**  
