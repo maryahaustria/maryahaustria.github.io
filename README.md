@@ -54,4 +54,4 @@
 **[View Project: Sentiment Classification](file:///path/to/your/sentiment_classification.html)**  
 **[View Project: Sleep Quantity Analysis](file:///path/to/your/sleep_analysis.html)**  
 **[View Project: Credit Card Fraud Detection](file:///path/to/your/fraud_detection.html)**  
-**[View Project: Question Answering System](C:\Users\marya\Desktop\Work Project\Programming Assignment #3 Group project QA System (2).html)**  
+**[View Project: Question Answering System](assets/img/Question Answering System.pdf)**  
