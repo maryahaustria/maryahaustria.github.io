@@ -49,9 +49,10 @@
 - Evaluated models using Logistic Regression with confusion matrices and classification reports, and XGBoost with ROC-AUC analysis, achieving high accuracy and effective fraud detection.
 
 **Question Answering System**  
+**[View Project: Question Answering System](assets/img/Question Answering System.pdf)**  
 - Built an NLP-based question answering system using Python, retrieving information from Wikipedia and summarizing content efficiently with a 70% text reduction.
 
 **[View Project: Sentiment Classification](file:///path/to/your/sentiment_classification.html)**  
 **[View Project: Sleep Quantity Analysis](file:///path/to/your/sleep_analysis.html)**  
 **[View Project: Credit Card Fraud Detection](file:///path/to/your/fraud_detection.html)**  
-**[View Project: Question Answering System](assets/img/Question Answering System.pdf)**  
+
