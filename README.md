@@ -36,6 +36,8 @@
 ### Projects
 
 **Sentiment Classification with Feed-Forward Neural Network**  
+**[View Project: Sentiment Classification](assets/img/Feed-Forward Neural Network for Sentiment Classification.pdf)**  
+
 - Developed and trained a Feed-Forward Neural Network (FFNN) for sentiment classification using Python, incorporating TF-IDF feature extraction and comprehensive preprocessing steps such as tokenization, stopword removal, stemming, and emoji conversion within an Agile framework.
 - Tuned hyperparameters, including hidden size (20), learning rate (0.0001), and epochs (100), improving prediction accuracy to 83%, evaluated through accuracy, confusion matrix, and precision/recall metrics.
 - Implemented model pipelines using Python, Scikit-learn, and TensorFlow, aligning with modern AI/ML practices.
@@ -52,7 +54,7 @@
 **[View Project: Question Answering System](assets/img/Question Answering System.pdf)**  
 - Built an NLP-based question answering system using Python, retrieving information from Wikipedia and summarizing content efficiently with a 70% text reduction.
 
-**[View Project: Sentiment Classification](file:///path/to/your/sentiment_classification.html)**  
+
 **[View Project: Sleep Quantity Analysis](file:///path/to/your/sleep_analysis.html)**  
 **[View Project: Credit Card Fraud Detection](file:///path/to/your/fraud_detection.html)**  
 
