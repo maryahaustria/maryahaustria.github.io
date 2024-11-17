@@ -43,6 +43,8 @@
 - Implemented model pipelines using Python, Scikit-learn, and TensorFlow, aligning with modern AI/ML practices.
 
 **Sleep Quantity and Cardiovascular Disease Risk**  
+**[View Project: Sleep Quantity Analysis](assets/img/BloodPressureVSsleep.pdf)**  
+**[View Project: Sleep Quantity Analysis](assets/img/LDLandTriVSsleep.pdf)**  
 - Conducted exploratory data analysis (EDA) on healthcare data from NHANES, analyzing the impact of sleep patterns on cardiovascular health using R, Tableau, and Excel.
 - Performed regression analysis and presented findings with visualization tools to support healthcare decisions, indicating that socioeconomic and health factors should also be considered to understand cardiovascular health risks fully.
 
@@ -55,7 +57,7 @@
 **[View Project: Question Answering System](assets/img/Question Answering System.pdf)**  
 - Built an NLP-based question answering system using Python, retrieving information from Wikipedia and summarizing content efficiently with a 70% text reduction.
 
-
-**[View Project: Sleep Quantity Analysis](file:///path/to/your/sleep_analysis.html)**  
+**Amazon Prime Video Dashboard**
+**[View Project: Question Answering System](assets/img/Question Answering System.pdf)**  
 
 
