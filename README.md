@@ -57,7 +57,7 @@
 **[View Project: Question Answering System](assets/img/Question Answering System.pdf)**  
 - Built an NLP-based question answering system using Python, retrieving information from Wikipedia and summarizing content efficiently with a 70% text reduction.
 
-**Amazon Prime Video Dashboard** 
+**Amazon Prime Video Dashboard** <br>
 **[View Project: Amazon Prime Dashboard](assets/img/Amazon Prime Video Dashboard.pdf)**  
 - Designed an interactive Power BI dashboard to analyze over 100 years of Amazon Prime Video content (1920–2021).
 - Visualized total shows and movies, content distribution by country, and genre breakdown.
