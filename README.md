@@ -47,6 +47,7 @@
 - Performed regression analysis and presented findings with visualization tools to support healthcare decisions, indicating that socioeconomic and health factors should also be considered to understand cardiovascular health risks fully.
 
 **Credit Card Fraud Detection**  
+**[View Project: Credit Card Fraud Detection](assets/img/Credit Card Fraud Detection.pdf)**  
 - Implemented machine learning models (Logistic Regression, XGBoost) using Python and SMOTE to address class imbalance in fraudulent transaction detection.
 - Evaluated models using Logistic Regression with confusion matrices and classification reports, and XGBoost with ROC-AUC analysis, achieving high accuracy and effective fraud detection.
 
@@ -56,5 +57,5 @@
 
 
 **[View Project: Sleep Quantity Analysis](file:///path/to/your/sleep_analysis.html)**  
-**[View Project: Credit Card Fraud Detection](file:///path/to/your/fraud_detection.html)**  
+
 
