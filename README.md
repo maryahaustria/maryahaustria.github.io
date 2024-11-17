@@ -49,7 +49,7 @@
 - Performed regression analysis and presented findings with visualization tools to support healthcare decisions, indicating that socioeconomic and health factors should also be considered to understand cardiovascular health risks fully.
 
 **Credit Card Fraud Detection**  
-**[View Project: Credit Card Fraud Detection](assets/img/Credit Card Fraud Detection.pdf)**  
+**[View Project: Credit Card Fraud Detection](assets/img/Credit Card Fraud Detection.pdf)**   
 - Implemented machine learning models (Logistic Regression, XGBoost) using Python and SMOTE to address class imbalance in fraudulent transaction detection.
 - Evaluated models using Logistic Regression with confusion matrices and classification reports, and XGBoost with ROC-AUC analysis, achieving high accuracy and effective fraud detection.
 
@@ -57,7 +57,11 @@
 **[View Project: Question Answering System](assets/img/Question Answering System.pdf)**  
 - Built an NLP-based question answering system using Python, retrieving information from Wikipedia and summarizing content efficiently with a 70% text reduction.
 
-**Amazon Prime Video Dashboard**
-**[View Project: Question Answering System](assets/img/Question Answering System.pdf)**  
-
-
+**Amazon Prime Video Dashboard** 
+**[View Project: Amazon Prime Dashboard](assets/img/Amazon Prime Video Dashboard.pdf)**  
+- Designed an interactive Power BI dashboard to analyze over 100 years of Amazon Prime Video content (1920–2021).
+- Visualized total shows and movies, content distribution by country, and genre breakdown.
+- Integrated advanced filters for year, country, and genre to enable customized insights.
+- Highlighted regional trends, genre popularity, and historical content patterns.
+- Provided actionable insights for content acquisition, marketing strategies, and regional growth plans
+  
