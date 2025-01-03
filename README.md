@@ -2,7 +2,7 @@
 
 ### Education
 **Applied Information Technology in Machine Learning, MS**  
-  -**Relevant coursework:** Database Management Systems, Representation Processing and Visualization, Applied Machine Learning, Applied Deep Learning, Programming Essentials, Introduction to NLP, Interpretable Machine Learning
+  - **Relevant coursework:** Database Management Systems, Representation Processing and Visualization, Applied Machine Learning, Applied Deep Learning, Programming Essentials, Introduction to NLP, Interpretable Machine Learning
   
 **Health Science, BS**
   - **Relevant coursework:** Ethics & Health Care, Trends in Modern Diseases, Introduction to Epidemiology, Health Disparities in The U.S., Global Health, Introduction to Public Health, Healthcare Management, Organic Chemistry, Physics, Calculus, Statistics
