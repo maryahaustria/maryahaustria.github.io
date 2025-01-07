@@ -7,34 +7,6 @@
 **Health Science, BS**
   - **Relevant coursework:** Ethics & Health Care, Trends in Modern Diseases, Introduction to Epidemiology, Health Disparities in The U.S., Global Health, Introduction to Public Health, Healthcare Management, Organic Chemistry, Physics, Calculus, Statistics
     
-### Professional Experience
-
-**Department of State - Morocco Embassy**  
-**_Data Analyst Intern_**  
-*09/2024 - Present*  
-- Collaborated with internal teams to develop and maintain automated data exchange processes using Python and Power BI, improving data reporting efficiency by 50% and supporting strategic decision-making with interactive dashboards and automated reports.
-- Enhanced data quality and integrity through regular audits, validation processes, and stakeholder collaboration via Microsoft Teams and SharePoint for seamless data access.
-- Supported financial reporting by designing interactive dashboards to drive strategic decisions, ensuring that key performance indicators (KPIs) were accurately reflected in visualizations.
-
-**INOVA Occupational Health**  
-**_Medical Assistant_**  
-*09/2021 - Present*  
-- Provided health education and conducted data reviews, supporting decision-making for health and safety initiatives, resulting in a 15% increase in compliance with health protocols.
-- Supported data exchange initiatives by maintaining accurate patient records in EHR systems (EPIC, Systoc), ensuring consistent integration with internal and external health data systems.
-- Conducted thorough reviews of patient data to maintain integrity and facilitate reporting, reducing data discrepancies by 20% through consistent audits and validations.
-
-**Psychosocial Clinical Care and Research, VCU**  
-**_Research Analyst Intern_**  
-*09/2020 - 09/2022*  
-- Analyzed 5,000+ healthcare records, ensuring data accuracy and compliance with privacy regulations through data cleaning techniques.
-- Developed descriptive statistics and visualizations in Excel, Power BI, and Tableau to support pediatric oncology and medication adherence research.
-- Synthesized data from 1,000+ EMRs, 200+ surveys, and 50+ interviews for comprehensive research analysis.
-- Worked collaboratively to define reporting requirements and provide insights on research trends, improving operational efficiencies.
-
-**Accountable Community Health, VCU**  
-**_Intern_**  
-*02/2020 - 05/2020*  
-- Collected and updated data on social determinants of health through surveys and interviews, supporting research on access to care and outcomes for underserved populations.
 
 ### Projects
 
